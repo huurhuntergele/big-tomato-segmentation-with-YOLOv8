@@ -6,4 +6,13 @@ A YOLOv8-based object detection model optimized for assistive harvesting. Engine
 This model trained by a custom-made dataset containing segmented tomatoes that are reachable by a person wearing smart glasses, with a minimum of 25% surface area visibility.
 
 
-<img width="437" height="291" alt="image" src="https://github.com/user-attachments/assets/890209ac-a156-49ad-896b-e0cf62650853" />
+Validation labels:
+
+
+<img width="533" height="359" alt="image" src="https://github.com/user-attachments/assets/2ecdf0d7-b566-4705-93f3-bb82c301565c" />
+
+
+Validation predictions:
+
+
+<img width="531" height="355" alt="image" src="https://github.com/user-attachments/assets/6635b6fa-b56e-44e8-89b7-2063e6435f26" />
